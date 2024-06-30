@@ -1,3 +1,4 @@
 # first-demo
-This is my first github respository
-author name- jeny
+This is my first github respository.
+<br>
+Author name- jeny
